@@ -51,6 +51,22 @@
     "[typescriptreact]": {
       "editor.defaultFormatter": "vscode.typescript-language-features"
     },
+    "sqltools.connections": [
+      {
+        "mysqlOptions": {
+          "authProtocol": "default"
+        },
+        "previewLimit": 50,
+        "server": "sharecar.cafe24.com",
+        "port": 3306,
+        "driver": "MySQL",
+        "name": "sharecar.cafe24.com",
+        "group": "udplus",
+        "database": "sharecar",
+        "username": "sharecar",
+        "password": "asdf1449!@"
+      }
+    ],
   },
   "tasks": {
     "version": "2.0.0",
