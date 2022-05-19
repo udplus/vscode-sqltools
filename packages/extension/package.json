@@ -278,7 +278,7 @@
                 "category": "SQLTools Management"
             },
             {
-                "title": "Add New Connection",
+                "title": "Add New Connection2",
                 "command": "sqltools.openAddConnectionScreen",
                 "category": "SQLTools Management",
                 "icon": {
